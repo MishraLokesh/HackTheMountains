@@ -10,10 +10,10 @@ const bytecode = compiledFactory.evm.bytecode.object;
 
 let provider = new HDWalletProvider({
   mnemonic: {
-    phrase: 'end inquiry kingdom party glow topic trip rely image man guitar matter',
+    phrase: 'radio metal kiss small globe desert bottom chef cousin wrap paper health',
   },
   // providerOrUrl: `https://rinkeby.infura.io/v3/${process.env.infura_API}`,
-  providerOrUrl: 'https://rinkeby.infura.io/v3/600f2be8cdfd4634be1376f1f858d9eb',
+  providerOrUrl: 'https://rinkeby.infura.io/v3/f5ce4c88f59e42d2baaa1d434dd02b0a',
   chainId: '4'
 });
 
